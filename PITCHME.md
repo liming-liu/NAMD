@@ -26,13 +26,14 @@ Under violated stimulation, nuclei movies violently, the coupling between curren
 For low energy excitation of electronic system, the peturbation of nuclei configuration is tiny, using ground state AIMD trajectory to approximate.
 Then there's no electron->nuclei. 
 
-Electronic configuration can be different to ground state configuration, then the syetem is not on ground state potential energy surfaces any more.
-Electrons relaxes then system can experience various PES. The drive force of electronic relaxation is the nuclei configuration change induced NA coupling change between current and next time step eigenstates.
++++
+Electronic configuration can be different to ground state configuration, then the syetem is not on ground state potential energy surfaces any more. Electrons relaxes then system can experience various PES. The drive force of electronic relaxation is the nuclei configuration change induced NA coupling change between current and next time step eigenstates.
 
 ---
 #### Fewest Switch Surface Hoping
 Hoping probability
 
+---
 #### Boltzman factor
 Detail balence: At equilibrium, each elementary process should be equilibrated by its reverse process.
 i->j v.s. j-i
