@@ -1,6 +1,7 @@
 ---
 # NAMD in plain language
-##### PMP
+
+By Liming Liu
 
 ---
 #### Dynamic 
